@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE en-export SYSTEM "http://xml.evernote.com/pub/evernote-export3.dtd">
 <en-export>
-<note><title>Day 00 (Sun 21 Sep) - Rally</title><content><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
-<en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;">
+<note>
+<h2>Day 00 (Sun 21 Sep) - Rally</h2>
+
 <b style="font-size: 13px;">BEGINS:</b> Various<br/>
 <b style="font-size: 13px;">ENDS:</b> Augsburg -- HI Youth Hostel<br/>
 <br/>
@@ -62,10 +62,11 @@
 <div><span style="font-size: 13px;">Unterer Graben 6, 86152 Augsburg. </span><span style="font-size: 13px;">1.8km from station. Take streetcar no. 3,4 or 6 in the direction of “Königsplatz”. At stop “Königsplatz” you take streetcar no. 1 towards “Neuer Ostfriedhof” to the stop “Barfüßerbrücke”. The youth hostel is about 5 minutes away.</span></div>
 <div><span style="font-size: 13px;"><br/></span> Seahawks — 10:30pm kickoff local time</div>
 <div>Probably have to follow via stream, use hostel wifi? Maybe Murdock’s, an Irish pub, might be able to show the game.</div>
-</en-note>
-]]></content><created>20140605T004242Z</created><updated>20140916T191449Z</updated><tag>blitztura</tag><note-attributes><latitude>47.60809150561835</latitude><longitude>-122.3373045030686</longitude><altitude>33.01749801635742</altitude><author>Matthew Carruth</author><reminder-order>0</reminder-order><application-data key="textever.archived">1</application-data></note-attributes></note><hr /><note><title>Day 01 (Mon 22 Sep) - Oktoberfest</title><content><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
-<en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;">
+
+
+
+<hr /><h2>Day 01 (Mon 22 Sep) - Oktoberfest</h2>
+
 <b style="font-size: 13px;">BEGINS:</b> Augsburg - HI Youth Hostel<br/>
 <b style="font-size: 13px;">ENDS:</b> Munich - Jaeger Hostel<br/>
 <br/>
@@ -156,10 +157,11 @@ Oktoberfest!<br/>
 
 
 
-</en-note>
-]]></content><created>20140605T004003Z</created><updated>20140909T015548Z</updated><tag>blitztura</tag><note-attributes><latitude>47.60804380177051</latitude><longitude>-122.3374588629017</longitude><altitude>33.53887176513672</altitude><author>Matthew Carruth</author><reminder-order>0</reminder-order><application-data key="textever.archived">1</application-data></note-attributes></note><hr /><note><title>Day 02 (Tues 23 Sep) - Austria &amp; Bled</title><content><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
-<en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;">
+
+
+
+<hr /><h2>Day 02 (Tues 23 Sep) - Austria &amp; Bled</h2>
+
 <div style="font-family: Courier,">
 <p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt;"><b><span style="vertical-align: baseline; white-space: pre-wrap;">BEGINS:</span> </b><span style="font-size: 13px;">Munich - Jaeger’s Hostel</span></p>
 <span style="font-size: 13px;"><b>ENDS:</b> Lake Bled - Castle Hostel 1004</span></div>
@@ -288,10 +290,11 @@ There's a small island with a church in the lake as well that can be visited via
 Tito's villa is also overlooking the lake. Now a hotel, but we can apparently go to the lobby and other public spots for free. I figure it probably affords a similar-type view as we'd have from the castle so even better reason to skip the latter and save $ and time.</div>
 <div><br/></div>
 </div>
-</en-note>
-]]></content><created>20140605T010810Z</created><updated>20140916T193048Z</updated><tag>blitztura</tag><note-attributes><latitude>47.60808940668834</latitude><longitude>-122.3373142100238</longitude><altitude>33.45388793945313</altitude><author>Matthew Carruth</author><reminder-order>0</reminder-order></note-attributes></note><hr /><note><title>Day 03 (Wed 24 Sep) - Bled &amp; Ljubljana</title><content><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
-<en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;">
+
+
+
+<hr /><h2>Day 03 (Wed 24 Sep) - Bled &amp; Ljubljana</h2>
+
 <div><b style="white-space: pre-wrap;">BEGINS:</b> <span style="white-space: pre-wrap;">Lake Bled</span></div>
 <div><b style="white-space: pre-wrap;">ENDS:</b> Ljubljana - Celica Hostel</div>
 <div><br/></div>
@@ -381,10 +384,11 @@ Goal is to reach Ljubljana in time to check into hostel and explore the city wit
 <li><span style="font-size: 13px;">Cockta (soft drink)<br/></span></li>
 </ul>
 </div>
-</en-note>
-]]></content><created>20140605T010928Z</created><updated>20140908T164448Z</updated><tag>blitztura</tag><note-attributes><author>Matthew Carruth</author><reminder-order>0</reminder-order><application-data key="textever.archived">1</application-data></note-attributes></note><hr /><note><title>Day 04 (Thur 25 Sep) - Slovenian Touring</title><content><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
-<en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;">
+
+
+
+<hr /><h2>Day 04 (Thur 25 Sep) - Slovenian Touring</h2>
+
 <b style="font-size: 13px;">BEGINS:</b> Ljubljana<br/>
 <b style="font-size: 13px;">ENDS:</b> Night train to Zagreb<br/>
 <br/>
@@ -574,10 +578,11 @@ A couple other miscellaneous bits of traditional Slovenia are that it has a big 
 
 
 
-</en-note>
-]]></content><created>20140605T010958Z</created><updated>20140925T061714Z</updated><tag>blitztura</tag><note-attributes><latitude>47.60806355819909</latitude><longitude>-122.3372990599948</longitude><altitude>34.76020812988281</altitude><author>Matthew Carruth</author><reminder-order>0</reminder-order><application-data key="textever.archived">1</application-data></note-attributes></note><hr /><note><title>Day 05 (Fri 26 Sep) - Plitvice Lakes NP</title><content><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
-<en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;">
+
+
+
+<hr /><h2>Day 05 (Fri 26 Sep) - Plitvice Lakes NP</h2>
+
 <div><b style="font-size: 13px;">BEGINS:</b> Zagreb<br/>
 <b style="font-size: 13px;">ENDS:</b> Zadar - Four Corners Hostel<br/>
 <br/>
@@ -680,10 +685,11 @@ Hostel — <span style="font-size: 13px;">Four Corners - KOVACKA 10, Zadar, 5-b
 <li><span style="font-size: 13px;">(All SE Europe) various Rakija<br/></span></li>
 </ul>
 </div>
-</en-note>
-]]></content><created>20140605T011007Z</created><updated>20140916T194519Z</updated><tag>blitztura</tag><note-attributes><latitude>47.60791996470729</latitude><longitude>-122.3375715961644</longitude><altitude>34.8265495300293</altitude><author>Matthew Carruth</author><reminder-order>0</reminder-order></note-attributes></note><hr /><note><title>Day 06 (Sat 27 Sep) - Dalmatian Coast</title><content><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd">
-<en-note style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;">
+
+
+
+<hr /><h2>Day 06 (Sat 27 Sep) - Dalmatian Coast</h2>
+
 <span style="font-size: 13px;"><b>BEGINS:</b> Zadar<br/>
 <b>ENDS:</b> Mostar? (maybe Split)<br/>
 <br/>
@@ -770,6 +776,9 @@ Krka National Park might be a bit redundant given Plitvice, but it’s supposed 
 <li>Hostel Dino - $12 5-bed dorm<br/></li>
 </ul>
 </div>
-</en-note>
-]]></content><created>20140605T011035Z</created><updated>20140916T200746Z</updated><tag>blitztura</tag><note-attributes><latitude>47.60791996470729</latitude><longitude>-122.3375715961644</longitude><altitude>34.8265495300293</altitude><author>Matthew Carruth</author><reminder-order>0</reminder-order></note-attributes></note><hr />
+
+
+
+<hr />
+</note>
 </en-export>
